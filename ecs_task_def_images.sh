@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 source .env
 
 # Get all AWS ECS task definitions

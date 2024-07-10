@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 source .env
 
 if [ -z $REPO_ACCT ]; then
